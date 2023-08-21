@@ -7,8 +7,8 @@
 
 body {
     background-image: url("../img/jouju_stt.png");
-    background-repeat: repeat;
-    background-size: contain;
+    background-repeat: none;
+    background-size: cover;
 
     font-family: 'ONE-Mobile-POP';
 
@@ -21,3 +21,10 @@ body {
     position: static;
 }
 
+/* #box{
+  border: 1px solid red;
+  position: absolute;
+  left: 7%;
+  top: 67%;
+  font-size: x-large;
+} */
